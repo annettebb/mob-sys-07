@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Будник Анна, Лабораторная 7</string>
+
+    <string name="audio_item_name">Неизвестный</string>
+    <string name="audio_item_author">Без названия</string>
+
+    <string name="audio_text">Нет аудио</string>
+    <string name="audio_play_btn">▶</string>
+    <string name="audio_pause_btn">❚❚</string>
+    <string name="audio_stop_btn">◼</string>
+    <string name="audio_next_btn">⏭</string>
+    <string name="audio_prev_btn">⏮</string>
+
+    <string name="photo_btn">сделать фото</string>
+
+    <string name="author">Будник Анна Андреевна</string>
+    <string name="authorTitle">Разработала</string>
+    <string name="authorBtn">Разработчик</string>
+</resources>
